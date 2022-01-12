@@ -1,3 +1,4 @@
+print("Swallow Speed Analysis: Version 1.0") 
 KPH=[]
 MPH=[]
 while True:
